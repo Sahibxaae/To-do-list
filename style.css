@@ -10,7 +10,7 @@ body{
     box-shadow:2px ;
     border: 5px rgba(128, 128, 128, 0.247) solid;
     border-radius: 15px;
-    width: 500px;
+    width: 450px;
     min-height:200px;
     margin: auto;
     margin-top: 5rem;
@@ -30,7 +30,7 @@ h1{
     position: relative;
 }
 .input-field .Text-box{
-    height: 45px;
+    height: 50px;
     width: 400px;
     background: rgba(128, 128, 128, 0.116);
     border-radius: 30px;
@@ -39,13 +39,13 @@ h1{
     padding-left: 1rem;
 }
 .input-field .addButton{
-    height: 45px;
+    height: 50px;
     width:80px;
     border-radius: 30px;
     outline: none;
     border: none;
     position: absolute;
-    right:8%;
+    right:4%;
     background: orangered;
     color: white;
     cursor: pointer;
@@ -60,6 +60,7 @@ ul li{
     user-select: none;
     cursor: pointer;
     position: relative;
+    font-size:large;
 }
 ul li::before{
     content: " ";

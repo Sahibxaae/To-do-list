@@ -63,6 +63,7 @@ ul li{
     cursor: pointer;
     position: relative;
     font-size:large;
+    outline:none;
 }
 ul li::before{
     content: " ";

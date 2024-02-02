@@ -50,6 +50,7 @@ h1{
     background: orangered;
     color: white;
     cursor: pointer;
+    user-select: none;
 }
 
 ul{
